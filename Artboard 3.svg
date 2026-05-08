@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.16 63.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 9.1px;
+        letter-spacing: -.03em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: CascadiaMono-Regular, 'Cascadia Mono';
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-3 {
+        font-size: 9.14px;
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="154.16" height="63.47"/>
+  <text class="cls-3" transform="translate(37.35 33.52)"><tspan x="0" y="0">The</tspan></text>
+  <text class="cls-2" transform="translate(67.69 33.42)"><tspan x="0" y="0">Footprint</tspan></text>
+  <path d="M52.76,39.4l5.51-19.1h3.9l5.51,19.1h-2.82l-4.52-16.78h-.24l-4.52,16.78h-2.82ZM55.32,34.75v-2.56h9.68v2.56h-9.68Z"/>
+  <g>
+    <polygon points="73.25 26.13 75.97 26.13 75.97 23.29 80.28 23.29 80.28 20.8 75.97 20.8 73.25 20.8 68.96 20.8 68.96 23.29 73.25 23.29 73.25 26.13"/>
+    <polygon points="75.97 35.23 73.25 35.23 73.25 36.91 68.96 36.91 68.96 39.4 73.25 39.4 75.97 39.4 80.28 39.4 80.28 36.91 75.97 36.91 75.97 35.23"/>
+  </g>
+</svg>
